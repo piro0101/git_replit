@@ -12,6 +12,7 @@
 
  ![다운로드](https://github.com/piro0101/git_replit/assets/170285898/a1e1f8b7-a82d-417d-9a8a-3f0bfe798c95)
 
+## 폴더 설명
 
 | 폴더 | 설명 |
 | ------ | ------ |
@@ -20,7 +21,7 @@
 | notes | 수업시간 필기 내용을 적은 것들을 보관하는 폴더 |
 | 그외 파일들 | 수업시간에 필요한 파일들 딱히 폴더에 보관하진 않음 |
 
-
+## syallbus
 
 | 주차 | 강의범위 및 내용 | 파일링크 |
 | ------ | ------ | ------ |
@@ -41,5 +42,5 @@
 | 제 15주 | Final |
 
 
-### 그 외 원하는 내용
+## 그 외 원하는 내용
 - 참고용 https://replit.com/@jscha101/SnowCylindricalAnalysts#OSS/Dillinger.md
