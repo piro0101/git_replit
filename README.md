@@ -21,6 +21,7 @@
 | 그외 파일들 | 수업시간에 필요한 파일들 딱히 폴더에 보관하진 않음 |
 
 
+
 | 주차 | 강의범위 및 내용 | 파일링크 |
 | ------ | ------ | ------ |
 | 제 1주 | Intro. What is git? | https://eclass.hufs.ac.kr/ilos/st/course/lecture_material_view_form.acl?ARTL_NUM=10717190&SCH_KEY=&SCH_VALUE=&display=1&start=1 |
@@ -38,6 +39,7 @@
 | 제 13주 | date 사용법: 날짜, 시간 |
 | 제 14주 | 프로젝트 |
 | 제 15주 | Final |
+
 
 ### 그 외 원하는 내용
 - 참고용 https://replit.com/@jscha101/SnowCylindricalAnalysts#OSS/Dillinger.md
