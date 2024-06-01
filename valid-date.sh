@@ -71,6 +71,8 @@ if (( year % 4 == 0 )); then
         is_leap=1
         echo "윤년입니다"
     fi
+else
+  echo "윤년이 아닙니다"
 fi
 
 
